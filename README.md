@@ -1,2 +1,0 @@
-# html
-pure html codes
